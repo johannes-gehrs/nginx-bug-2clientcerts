@@ -2,7 +2,7 @@
 
 Nginx will not accept the latter of two client certs if the subject is the same.
 
-This code ldsupposed to demonstrate this.
+This code is supposed to demonstrate this.
 
 Run `make certs` to create certificates. Run `make docker` to build and run a docker container which
 uses the certs.
